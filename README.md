@@ -3,7 +3,7 @@ playing around with integrating spring-boot and vertx
 
 ##Build and run
 1. Perform a mvn package
-2. Run the rest-service-1.0-SNAPSHOT.jar
+2. Run the spring-boot-vertx-1.0-SNAPSHOT.jar
 
 ##Demonstrable APIs
 1. Spring GreetingController - http://localhost:8080/greeting?name=John
