@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+hello:
+  GreetingVerticle:
+    httpServerPort: 9090
+  GreetingService:
+    message: Greetings from Vertx
+    initId: 5000
+  GreetingController:
+    message: Greetings from Spring
+
